@@ -13,26 +13,12 @@
 - `cd`
 - `exit`
 
-### Vimtutor
-- Read about `vim`
-- do `vimtutor`
-
-### Consoles types
-- Physical TTY
-- Local psudo TTY
-- Remote psudo TTY
-- `tty`
-- `who`
-
 ### Wildcards
 - `*`
 - `?`
 - `{...}`
 - `!...`
 - `$(...)`
-
-### RTFM
-- `man`
 
 ### Text manipulation
 - `echo`
@@ -66,6 +52,17 @@
 - `tee`
 - `xargs`
 
+### File permissions
+- `chmod`
+- `chown`
+- `chgrp`
+- Sticky bit
+- setuid
+- setgid
+- `umask`
+- `getfacl`
+- `setfacl`
+
 ### Users and groups
 - `whoami`
 - `id`
@@ -83,17 +80,6 @@
 - /etc/sudoers
 - `visudo`
 - `sudoedit`
-
-### File permissions
-- `chmod`
-- `chown`
-- `chgrp`
-- Sticky bit
-- setuid
-- setgid
-- `umask`
-- `getfacl`
-- `setfacl`
 
 ### Monitoring
 - `ps`
@@ -120,20 +106,6 @@
 - .bash_profile
 - .bash_history
 
-### FHS
-- Filesystem Hierarchy Standard
-
-### Processes
-- /proc
-- /run
-- `jobs`
-- `bg`
-- `fg`
-
-### Timed tasks
-- Crontab
-- At
-
 ### SSH
 - `ssh`
 - `ssh-keygen`
@@ -150,6 +122,3 @@
 - Dependencies
 - History
 - Rollback
-
-
-
