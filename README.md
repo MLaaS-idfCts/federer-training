@@ -6,7 +6,7 @@
 
 ## The topics:
 - Basic Linux
-- Python
+- Python for Beginners
 - Git
 - Cloud concept
 - Basic Dockers  
