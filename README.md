@@ -8,10 +8,9 @@
 - Basic Linux
 - Python for Beginners
 - Git
-- Cloud concept
-- Basic Dockers  
-- Basic Git
-- Basic OpenShift - Step by Step very basic (with print screens)
-- Basic S3  
+- Cloud Concept
+- Virtualization 
+- Basic Kubernetes and OpenShift
+- Basic S3 (Object Storage) 
 - Federer package work - with data set on S3 and existing model - work with experiments, magic, HPO  
 

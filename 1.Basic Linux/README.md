@@ -1,10 +1,7 @@
 # Basic Linux
 
-## Goal: finish all in one day
-
 ### First steps
-
-[Linux Journey](https://linuxjourney.com/) is a good resource for learning Linux  
+- [Linux Journey](https://linuxjourney.com/) is a good resource for learning Linux  
 
 ### Navigation
 - `pwd`
