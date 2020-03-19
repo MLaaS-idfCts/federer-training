@@ -1,4 +1,4 @@
-# 6.Basic Kubernetes and OpenShift
+# Basic Kubernetes and OpenShift
 
 What is Kubernetes:  
 https://www.redhat.com/en/topics/containers/what-is-kubernetes
