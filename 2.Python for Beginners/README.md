@@ -1,7 +1,7 @@
 # Python for beginners
 
 ### Installing python:
-- Reccomanded: install with anaconda: https://www.youtube.com/watch?v=Vt6loGK9Adc
+- Recommended: install with anaconda: https://www.youtube.com/watch?v=Vt6loGK9Adc
 - https://www.youtube.com/watch?v=dX2-V2BocqQ
 
 ### Tutorial:
